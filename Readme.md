@@ -6,10 +6,13 @@ Your task is to build an HTML and CSS website that replicates the design present
 
 Requirements:
 
-Sticky Navbar: The navbar should feature the startup logo on the left side and the navigation links on the right side.
-Intro Section: This section includes a heading, a paragraph with placeholder text (lorem ipsum), and a button on the left. On the right, there should be an image of Jeff Bezos, which can be exported directly from the Figma file.
-Contact Us Section: This part of the website should have custom input fields. When a user clicks on an input field, no blue outline should be visible (Hint: set the outline to none when the input field is focused).
-Table Section: Follow the UI design in the Figma file to create a simple table. Additionally, ensure that the table includes a footer created using the 'tfoot' tag.
+(1) Sticky Navbar: The navbar should feature the startup logo on the left side and the navigation links on the right side.
+
+(2) Intro Section: This section includes a heading, a paragraph with placeholder text (lorem ipsum), and a button on the left. On the right, there should be an image of Jeff Bezos, which can be exported directly from the Figma file.
+
+(3) Contact Us Section: This part of the website should have custom input fields. When a user clicks on an input field, no blue outline should be visible (Hint: set the outline to none when the input field is focused).
+
+(4) Table Section: Follow the UI design in the Figma file to create a simple table. Additionally, ensure that the table includes a footer created using the 'tfoot' tag.
 
 
 Figma Link:
